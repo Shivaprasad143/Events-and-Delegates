@@ -1,0 +1,6 @@
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\bin\Debug\EventsAndDeleg.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\bin\Debug\EventsAndDeleg.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\bin\Debug\EventsAndDeleg.pdb
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\obj\Debug\EventsAndDeleg.csprojResolveAssemblyReference.cache
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\obj\Debug\EventsAndDeleg.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\EventsAndDeleg\EventsAndDeleg\obj\Debug\EventsAndDeleg.pdb
